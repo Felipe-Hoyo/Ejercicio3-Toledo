@@ -20,6 +20,7 @@ footer{
     display: flex;
     text-align: center;
     border-radius: 15px;
+    background-color: aquamarine;
 }
 img{
     border-radius: 15px;
