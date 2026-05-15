@@ -28,7 +28,7 @@ img{
 nav a{
     text-decoration: none;
     color: black;
-    padding: 5px;
+    padding-left: 40px;
 }
 nav{
     text-align: center; 
@@ -39,4 +39,7 @@ nav{
 .des{
     text-align: center;
     border: 10px solid black;
+}
+section{
+    min-height: 80vh;
 }
